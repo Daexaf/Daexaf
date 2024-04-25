@@ -1,7 +1,7 @@
 ## Hi 👋, My Name is Muhammad Ihsan
 
 [![Gmail Badge](https://img.shields.io/badge/-ihsan64.mi@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:ihsan64.mi@gmail.com)](mailto:ihsan64.mi@gmail.com) 
-[![Linkedin Badge](https://img.shields.io/badge/-muhammad-ihsan-64-mi?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/muhammad-ihsan-64-mi/)]([https://www.linkedin.com/in/ryan-ramadhan-17118b222/](https://www.linkedin.com/in/muhammad-ihsan-64-mi/)) [![Github Badge](https://img.shields.io/badge/-Daexaf-grey?style=flat&logo=github&logoColor=white&link=https://github.com/Daexaf/)](https://www.github.com/Daexaf/)
+[![Linkedin Badge](https://img.shields.io/badge/-muhammad-ihsan-64-mi?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/muhammad-ihsan-64-mi/)]([[https://www.linkedin.com/in/ryan-ramadhan-17118b222/](https://www.linkedin.com/in/muhammad-ihsan-64-mi/)](https://www.linkedin.com/in/muhammad-ihsan-64-mi/)) [![Github Badge](https://img.shields.io/badge/-Daexaf-grey?style=flat&logo=github&logoColor=white&link=https://github.com/Daexaf/)](https://www.github.com/Daexaf/)
 
 <p align='left'> *** </p>
 
