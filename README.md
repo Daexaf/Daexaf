@@ -18,8 +18,7 @@
 ### 👨‍💻 About Me
 
 - 💼 I'm currently working as a **Software Engineer** specializing in **Finance & Web Solutions**  
-- 🌱 I’m constantly learning **modern frameworks**, **cloud platforms**, and **architecture design**  
-- 💬 Ask me about **C#**, **.NET**, **JavaScript**, **SQL**, or how to build scalable web applications  
+- 🌱 I’m learning modern frameworks and doing my best to grow as a developer — no plans to give up anytime soon!
 - ⚡ Fun Fact: I'm not just a coder — I'm also an explorer of the intersection between tech & humanity 🤝  
 
 ---
